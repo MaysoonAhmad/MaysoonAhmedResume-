@@ -9,7 +9,7 @@ Attn:  Human Resources Department
 
 * Dear Hiring Manager:
 
-* Please accept my resume in consideration for the position with your company. Iím a University of Waterloo alumni with a Master of Applied Sciences degree in Chemical Engineering.  
+* Please accept my resume in consideration for the position with your company. I‚Äôm a University of Waterloo alumni with a Master of Applied Sciences degree in Chemical Engineering.  
 
 * I have a passion to do programming since I was doing my master, so I started working hard to learn more in python. I am planning to be certified in CS.
 
@@ -68,10 +68,10 @@ Seeking a career with a well-established organization where I can employ my skil
 EDUCATION
 ---------
 
-* Master in in chemical Engineering, University of Waterloo (Thesis ìAssessment of mathematical models for Ultrafiltration using MATLABî).
+* Master in in chemical Engineering, University of Waterloo (Thesis ‚ÄúAssessment of mathematical models for Ultrafiltration using MATLAB‚Äù).
 * B.Sc. in Chemical Engineering, University of Jordan. 
 * Teaching assistance Certification, Waterloo university.
-* Python (Complete Python Bootcamp) ñ Udemy.com , Ruby, HTML and CSS
+* Python (Complete Python Bootcamp) ‚Äì Udemy.com , Ruby, HTML and CSS
 * Child care certificate
 
 TECHNICAL & PERSONAL SKILL
@@ -86,17 +86,15 @@ TECHNICAL & PERSONAL SKILL
 EMPLOYMENT HISTORY
 ------------------ 
 
-_Assistant teacher at Lake Washington School district, February 2019_
+### Assistant teacher at Lake Washington School district, February 2019 ###
 Responsibilities
 ----------------
 * Assist in developing lesson plans based on state requirements and the specific needs of each child.
 * Work with children in the classroom to promote their learning and development
-* Communicate with parents and keep them informed about their childís development and any changes to the regular day-to-day schedule
+* Communicate with parents and keep them informed about their child‚Äôs development and any changes to the regular day-to-day schedule
 
-### LackWashnton 
-_Assistant teacher_ 
 
-_Waterloo university, Canada ON, Master and PhD (drop out),  2009 - 2014_ 
+### Waterloo university, Canada ON, Master and PhD (drop out),  2009 - 2014 ###
 Responsibilities
 ----------------
 * Air quality forecasting project: an integrated Analysis of the air pollution forcing using Calpuff and python: The project target was to analysis a raw data for air pollutants (mixture of gases) from different factories in Ontario area. We used python to parse and filter the requirement data in order to use it as an input for Calpuff(dispersion model). Calpuff support AI to predict air pollution. The module can be use as future project to simulate environment hazard prediction. AI and ML (machine learning) can be used as tools to monitor and reserve air quality .AI and ML will help human to predict pollution and track pollution sources. 
@@ -117,8 +115,8 @@ PROFESSIONAL TRAINING & CERTIFICATION
 
 VOLUNTEER AND COMMUNITY INVOLVEMENT 
 -----------------------------------
-* Sep 2018-current: ìVolanteer at Norman Rockwell elementry school.
-* 2017-2018   : ìTeaching assistance at  Brightonview Mentossori Redmond Ridge.
+* Sep 2018-current: ‚ÄúVolanteer at Norman Rockwell elementry school.
+* 2017-2018   : ‚ÄúTeaching assistance at  Brightonview Mentossori Redmond Ridge.
 
 
 
