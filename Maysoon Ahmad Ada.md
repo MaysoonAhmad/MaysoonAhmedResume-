@@ -9,7 +9,7 @@ MAYSOON AHMAD, M.A.Sc.
 
 
 
-Attn:  Human Resources Department 
+Attn:  Ada Developers Academy  
 
 --------------------------------- 
 
@@ -17,11 +17,10 @@ Attn:  Human Resources Department
 
 
 
-Dear Hiring Manager:
+Dear Ada Developers Academy:
 
 
-
-Please accept my resume in consideration for the position with your company. I’m a University of Waterloo alumni with a Master of Applied Sciences degree in Chemical Engineering.  
+ I’m a University of Waterloo alumni with a Master of Applied Sciences degree in Chemical Engineering.  
 
 
 
