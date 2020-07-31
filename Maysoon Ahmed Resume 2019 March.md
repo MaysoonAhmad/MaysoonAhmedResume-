@@ -21,7 +21,7 @@ Dear Hiring Manager:
 
 
 
-Please accept my resume in consideration for the position with your company. Iím a University of Waterloo alumni with a Master of Applied Sciences degree in Chemical Engineering.  
+Please accept my resume in consideration for the position with your company. I‚Äôm a University of Waterloo alumni with a Master of Applied Sciences degree in Chemical Engineering.  
 
 
 
@@ -129,7 +129,10 @@ Objective
 
 
 
-Seeking a career with a well-established organization where I can employ my skills and experience for further growth and productivity.  
+My background is in Chemical engineering with a wide range of experiences . I always had an interest in coding and  was  curious 
+about technology which led me to change careers. I love coding and creating new things from scratch. It‚Äôs so fascinating to know  
+that every piece of code I‚Äôm writing has a potential to  solve a problem. I  completed  a Software  development bootcamp where I
+learned C# and how to create a web app using ASP.NET Core MVC and I improved my coding skills.
 
 
 
@@ -139,15 +142,11 @@ EDUCATION
 
 
 
-* Master in in chemical Engineering, University of Waterloo (Thesis ìAssessment of mathematical models for Ultrafiltration using MATLABî).
-
-* B.Sc. in Chemical Engineering, University of Jordan. 
-
-* Teaching assistance Certification, Waterloo university.
-
-* Python (Complete Python Bootcamp) ñ Udemy.com , Ruby, HTML and CSS
-
-* Child care certificate
+* Full Stack Software Development, Kal Academy.
+* Master in Chemical Engineering, University of Waterloo (Thesis ‚ÄúAssessment of mathematical models for Ultrafiltration using MATLAB‚Äù).
+* B.Sc. in Chemical Engineering, the University of Jordan. 
+* ‚Ä¢	Python (Complete Python Bootcamp) ‚Äì Udemy.com, Ruby, HTML, and CSS.
+* Teaching assistance Certification, Waterloo University.
 
 
 
@@ -155,18 +154,21 @@ TECHNICAL & PERSONAL SKILL
 
 -------------------------- 
 
-* Strong experience in data processing and analysis of experimental data.
+* Proficiency with algorithms and data structures. 
 
-* Experience in analyses huge data climate by utilizing CALMET/CALLPUFF/ Python    
+* Knowledgeable and experienced in software development using various programming, structured languages, frameworks 
+  and tools - C#, .Net Core Framework, Entity Framework, SQL, Docker, Git, Redis, RabbitMQ, MS SQL Server.
 
-* Experience in analyzing complex data sets by using MATLAB.
 
-* Strong background in modeling chemical reaction kinetics related to combustion processes and modeling ultrafiltration process.
+* Experienced developing, building, and deploying micro services using Docker. 
 
-* Programing language :  experience in Python, Ruby, HTML and CSS.
+* Experienced in successfully working on multiple concurrent projects in a fast-paced, deadline-driven environment. 
 
-* Strong communication, details oriented and team worker.
+* Quick learner, self-motivated, great team player with excellent problem solving, troubleshooting skills. 
 
+* Willing to explore new technologies and software trends.
+
+* Python (Complete Python Bootcamp) ‚Äì Udemy.com, Ruby, HTML, and CSS.
 
 
 EMPLOYMENT HISTORY
@@ -185,7 +187,7 @@ Responsibilities
 
 * Work with children in the classroom to promote their learning and development
 
-* Communicate with parents and keep them informed about their childís development and any changes to the regular day-to-day schedule
+* Communicate with parents and keep them informed about their child‚Äôs development and any changes to the regular day-to-day schedule
 
 
 
@@ -231,9 +233,9 @@ Responsibilities
 
 -------------------------------------------
 
-* Sep 2018-current: ìVolanteer at Norman Rockwell elementry school.
+* Sep 2018-current: ‚ÄúVolanteer at Norman Rockwell elementry school.
 
-* 2017-2018   : ìTeaching assistance at  Brightonview Mentossori Redmond Ridge.
+* 2017-2018   : ‚ÄúTeaching assistance at  Brightonview Mentossori Redmond Ridge.
 
 
 
