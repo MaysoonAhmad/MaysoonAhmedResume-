@@ -177,7 +177,7 @@ EMPLOYMENT HISTORY
 
 
 
-### Assistant teacher at Lake Washington School district, February 2019 ###
+### Assistant teacher at Lake Washington School district, February 2019 - current ###
 
 Responsibilities
 
