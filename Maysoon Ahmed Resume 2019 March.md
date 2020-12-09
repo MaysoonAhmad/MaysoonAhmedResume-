@@ -21,7 +21,7 @@ Dear Hiring Manager:
 
 
 
-Please accept my resume in consideration for the position with your company. I’m a University of Waterloo alumni with a Master of Applied Sciences degree in Chemical Engineering.  
+Please accept my resume in consideration for the position with your company. I’m a University of Waterloo alumni with a Master of Applied Sciences degree in Chemical Engineering. I completed a Software development bootcamp where I learned C# and how to create a web app using ASP.NET Core MVC and I improved my coding skills. 
 
 
 
